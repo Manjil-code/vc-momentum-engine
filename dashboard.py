@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_BASE = https://vc-momentum-api.onrender.com
+API_BASE = "https://vc-momentum-api.onrender.com"
+
 
 st.set_page_config(
     page_title="VC Momentum Intelligence",
