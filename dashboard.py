@@ -66,7 +66,7 @@ with col1:
     st.metric("Companies Ranked", len(ranking_df))
 
 with col2:
-    avg_score = round(ranking_df["current_score"].mean(), 2) if not ranking_df.empty else 0
+    avg_score = round(ranking_df["momentum_score"].mean(), 2) if not ranking_df.empty and "momentum_score" in ranking_df.columns else 0
     st.metric("Avg Momentum", avg_score)
 
 with col3:
@@ -87,7 +87,7 @@ st.divider()
 st.subheader("🏆 Top Momentum Companies")
 
 if not ranking_df.empty:
-    st.dataframe(ranking_df.sort_values("current_score", ascending=False), use_container_width=True)
+    st.dataframe(ranking_df.sort_values("momentum_score", ascending=False), use_container_width=True)
 else:
     st.info("No ranking data available.")
 
