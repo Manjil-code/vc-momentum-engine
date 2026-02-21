@@ -1,0 +1,601 @@
+name,website,sector,region
+Bytedance,https://bytedance.com,AI,China
+SpaceX,https://spacex.com,Other,US
+Stripe,https://stripe.com,Fintech,US
+Klarna,https://klarna.com,Fintech,Sweden
+Epic Games,https://epicgames.com,Other,US
+Canva,https://canva.com,SaaS,Australia
+Checkout.com,https://checkoutcom.com,Fintech,UK
+Instacart,https://instacart.com,"Supply Chain, Logistics, & Delivery",US
+Databricks,https://databricks.com,Data Management & Analytics,US
+Revolut,https://revolut.com,Fintech,UK
+FTX,https://ftx.com,"Sequoia Capital, Thoma Bravo, Softbank",Bahamas
+Fanatics,https://fanatics.com,E-Commerce & Direct-To-Consumer,US
+Chime,https://chime.com,Fintech,US
+BYJU's,https://byjus.com,Edtech,India
+Xiaohongshu,https://xiaohongshu.com,E-Commerce & Direct-To-Consumer,China
+J&T Express,https://jtexpress.com,"Supply Chain, Logistics, & Delivery",Indonesia
+Miro,https://miro.com,SaaS,US
+Yuanfudao,https://yuanfudao.com,Edtech,China
+DJI Innovations,https://djiinnovations.com,Hardware,China
+SHEIN,https://shein.com,E-Commerce & Direct-To-Consumer,China
+goPuff,https://gopuff.com,E-Commerce & Direct-To-Consumer,US
+Yuanqi Senlin,https://yuanqisenlin.com,Consumer & Retail,China
+Ripple,https://ripple.com,Fintech,US
+Plaid,https://plaid.com,Fintech,US
+OpenSea,https://opensea.com,E-Commerce & Direct-To-Consumer,US
+Grammarly,https://grammarly.com,SaaS,US
+Devoted Health,https://devotedhealth.com,Health,US
+Faire,https://faire.com,AI,US
+Brex,https://brex.com,Fintech,US
+JUUL Labs,https://juullabs.com,Consumer & Retail,US
+Bitmain Technologies,https://bitmaintechnologies.com,Hardware,China
+Biosplice Therapeutics,https://biosplicetherapeutics.com,Health,US
+GoodLeap,https://goodleap.com,SaaS,US
+Airtable,https://airtable.com,SaaS,US
+ZongMu Technology,https://zongmutechnology.com,Auto & Transportation,China
+Global Switch,https://globalswitch.com,Hardware,UK
+Celonis,https://celonis.com,Data Management & Analytics,Germany
+Bolt,https://bolt.com,Fintech,US
+Alchemy,https://alchemy.com,Fintech,US
+Weilong,https://weilong.com,Consumer & Retail,China
+Swiggy,https://swiggy.com,"Supply Chain, Logistics, & Delivery",India
+Lalamove,https://lalamove.com,"Supply Chain, Logistics, & Delivery",Hong Kong
+Figma,https://figma.com,SaaS,US
+Gusto,https://gusto.com,Fintech,US
+reddit,https://reddit.com,SaaS,US
+Talkdesk,https://talkdesk.com,SaaS,US
+Notion Labs,https://notionlabs.com,SaaS,US
+Thrasio,https://thrasio.com,Other,US
+Digital Currency Group,https://digitalcurrencygroup.com,Finttech,US
+OutSystems,https://outsystems.com,SaaS,US
+ServiceTitan,https://servicetitan.com,SaaS,US
+HEYTEA,https://heytea.com,Other,China
+N26,https://n26.com,Fintech,Germany
+Klaviyo,https://klaviyo.com,SaaS,US
+Northvolt,https://northvolt.com,Other,Sweden
+Tanium,https://tanium.com,Cybersecurity,US
+Chehaoduo,https://chehaoduo.com,E-Commerce & Direct-To-Consumer,China
+Niantic,https://niantic.com,Mobile & Telecommunications,US
+OYO Rooms,https://oyorooms.com,Travel,India
+Rapyd,https://rapyd.com,Fintech,UK
+Kavak,https://kavak.com,E-Commerce & Direct-To-Consumer,Mexico
+Snyk,https://snyk.com,Cybersecurity,US
+Nuro,https://nuro.com,Auto & Transportation,US
+Lacework,https://lacework.com,Cybersecurity,US
+Tipalti,https://tipalti.com,Fintech,US
+Tempus,https://tempus.com,Health,US
+Xingsheng Selected,https://xingshengselected.com,E-Commerce & Direct-To-Consumer,China
+Dream11,https://dream11.com,SaaS,India
+Fireblocks,https://fireblocks.com,Fintech,US
+Ramp,https://ramp.com,Fintech,US
+Flexport,https://flexport.com,"Supply Chain, Logistics, & Delivery",US
+Caris Life Sciences,https://carislifesciences.com,Health,US
+Dapper Labs,https://dapperlabs.com,Fintech,Canada
+Hopin,https://hopin.com,SaaS,UK
+Getir,https://getir.com,E-Commerce & Direct-To-Consumer,Turkey
+Netskope,https://netskope.com,Cybersecurity,US
+Razorpay,https://razorpay.com,Fintech,India
+Toss,https://toss.com,Fintech,South Korea
+Carta,https://carta.com,Fintech,US
+Scale AI,https://scaleai.com,AI,US
+Argo AI,https://argoai.com,AI,US
+Gong,https://gong.com,AI,US
+TripActions,https://tripactions.com,Travel,US
+Gemini,https://gemini.com,Fintech,US
+We Doctor,https://wedoctor.com,Health,China
+Discord,https://discord.com,SaaS,US
+Ro,https://ro.com,Health,US
+Automation Anywhere,https://automationanywhere.com,AI,US
+1Password,https://1password.com,Cybersecurity,Canada
+Ziroom,https://ziroom.com,E-Commerce & Direct-To-Consumer,China
+National Stock Exchange of India,https://nationalstockexchangeofindia.com,Fintech,India
+Mollie,https://mollie.com,Fintech,Netherlands
+Rippling,https://rippling.com,SaaS,US
+Ola Cabs,https://olacabs.com,Auto & Transportation,India
+DataRobot,https://datarobot.com,AI,US
+Personio,https://personio.com,SaaS,Germany
+Upgrade,https://upgrade.com,Fintech,US
+Hinge Health,https://hingehealth.com,Health,US
+Black Unicorn Factory,https://blackunicornfactory.com,Other,US
+Benchling,https://benchling.com,SaaS,US
+Royole Corporation,https://royolecorporation.com,Hardware,China
+Better.com,https://bettercom.com,Fintech,US
+Wiz,https://wiz.com,Cybersecurity,Israel
+iCapital Network,https://icapitalnetwork.com,Fintech,US
+Pine Labs,https://pinelabs.com,Fintech,India
+6Sense,https://6sense.com,AI,US
+Attentive,https://attentive.com,Mobile & Telecommunications,US
+Easyhome,https://easyhome.com,Consumer & Retail,China
+Lianjia,https://lianjia.com,E-Commerce & Direct-To-Consumer,China
+Vice Media,https://vicemedia.com,SaaS,US
+Cityblock Health,https://cityblockhealth.com,Health,US
+Workato,https://workato.com,SaaS,US
+Back Market,https://backmarket.com,E-Commerce & Direct-To-Consumer,France
+RELEX Solutions,https://relexsolutions.com,"Supply Chain, Logistics, & Delivery",Finland
+Postman,https://postman.com,SaaS,US
+FiveTran,https://fivetran.com,Data Management & Analytics,US
+Pony.ai,https://ponyai.com,AI,US
+Trade Republic,https://traderepublic.com,Fintech,Germany
+Rappi,https://rappi.com,"Supply Chain, Logistics, & Delivery",Colombia
+Collibra,https://collibra.com,Data Management & Analytics,Belgium
+Blockchain.com,https://blockchaincom.com,Fintech,UK
+OneTrust,https://onetrust.com,SaaS,US
+QuintoAndar,https://quintoandar.com,E-Commerce & Direct-To-Consumer,Brazil
+C6 Bank,https://c6bank.com,Fintech,Brazil
+United Imaging Healthcare,https://unitedimaginghealthcare.com,Health,China
+Hello TransTech,https://hellotranstech.com,Auto & Transportation,China
+Deel,https://deel.com,Fintech,US
+Airwallex,https://airwallex.com,Fintech,Australia
+Mambu,https://mambu.com,Fintech,Netherlands
+Horizon Robotics,https://horizonrobotics.com,AI,China
+WM Motor,https://wmmotor.com,Auto & Transportation,China
+Howden Group Holdings,https://howdengroupholdings.com,Other,UK
+SambaNova Systems,https://sambanovasystems.com,Data Management & Analytics,US
+ZEPZ,https://zepz.com,Fintech,UK
+OakNorth Bank,https://oaknorthbank.com,Fintech,UK
+Moon Active,https://moonactive.com,Mobile & Telecommunications,Israel
+OfBusiness,https://ofbusiness.com,E-Commerce & Direct-To-Consumer,India
+Cockroach Labs,https://cockroachlabs.com,Data Management & Analytics,US
+Qonto,https://qonto.com,Fintech,France
+Ola Electric Mobility,https://olaelectricmobility.com,Auto & Transportation,India
+Icertis,https://icertis.com,AI,US
+Hopper,https://hopper.com,Travel,Canada
+Meesho,https://meesho.com,SaaS,India
+Cerebral,https://cerebral.com,Health,US
+Creditas,https://creditas.com,Fintech,Brazil
+Chipone,https://chipone.com,Hardware,China
+Pleo,https://pleo.com,Fintech,Denmark
+Anduril,https://anduril.com,AI,US
+Lyra Health,https://lyrahealth.com,Health,US
+Dataiku,https://dataiku.com,SaaS,US
+Checkr,https://checkr.com,SaaS,US
+Color,https://color.com,Health,US
+Meizu Technology,https://meizutechnology.com,Hardware,China
+Vinted,https://vinted.com,E-Commerce & Direct-To-Consumer,Lithuania
+VIPKid,https://vipkid.com,Edtech,China
+Socure,https://socure.com,Cybersecurity,US
+Monzo,https://monzo.com,Fintech,UK
+UBTECH Robotics,https://ubtechrobotics.com,Hardware,China
+Outreach,https://outreach.com,SaaS,US
+WeRide,https://weride.com,Auto & Transportation,China
+BetterUp,https://betterup.com,SaaS,US
+Arctic Wolf Networks,https://arcticwolfnetworks.com,Cybersecurity,US
+Sorare,https://sorare.com,E-Commerce & Direct-To-Consumer,France
+Relativity Space,https://relativityspace.com,Other,US
+Miaoshou Doctor,https://miaoshoudoctor.com,E-Commerce & Direct-To-Consumer,China
+Chainalysis,https://chainalysis.com,Fintech,US
+ThoughtSpot,https://thoughtspot.com,SaaS,US
+Globalization Partners,https://globalizationpartners.com,SaaS,US
+dbt Labs,https://dbtlabs.com,Data Management & Analytics,US
+SSENSE,https://ssense.com,E-Commerce & Direct-To-Consumer,Canada
+Dataminr,https://dataminr.com,AI,US
+BitPanda,https://bitpanda.com,Fintech,Austria
+Weee!,https://weee.com,"Supply Chain, Logistics, & Delivery",US
+Houzz,https://houzz.com,E-Commerce & Direct-To-Consumer,US
+CRED,https://cred.com,Fintech,India
+Yello Mobile,https://yellomobile.com,Mobile & Telecommunications,South Korea
+MEGVII,https://megvii.com,AI,China
+Greensill,https://greensill.com,Fintech,UK
+Impossible Foods,https://impossiblefoods.com,Consumer & Retail,US
+Radiology Partners,https://radiologypartners.com,Health,US
+Next Insurance,https://nextinsurance.com,Fintech,US
+Patreon,https://patreon.com,SaaS,US
+PointClickCare,https://pointclickcare.com,SaaS,Canada
+Zapier,https://zapier.com,SaaS,US
+Clubhouse,https://clubhouse.com,Mobile & Telecommunications,US
+BrowserStack,https://browserstack.com,SaaS,Ireland
+Olive,https://olive.com,SaaS,US
+Rubrik,https://rubrik.com,Data Management & Analytics,US
+Melio,https://melio.com,Fintech,US
+Vuori,https://vuori.com,E-Commerce & Direct-To-Consumer,US
+ClickUp,https://clickup.com,SaaS,US
+Cerebras Systems,https://cerebrassystems.com,Hardware,US
+Farmers Business Network,https://farmersbusinessnetwork.com,Other,US
+Branch,https://branch.com,Mobile & Telecommunications,US
+Aurora Solar,https://aurorasolar.com,SaaS,US
+Medlinker,https://medlinker.com,Health,China
+Intarcia Therapeutics,https://intarciatherapeutics.com,Health,US
+StockX,https://stockx.com,E-Commerce & Direct-To-Consumer,US
+MessageBird,https://messagebird.com,Mobile & Telecommunications,Netherlands
+Guild Education,https://guildeducation.com,SaaS,US
+Articulate,https://articulate.com,Edtech,US
+FalconX,https://falconx.com,Fintech,US
+Dutchie,https://dutchie.com,E-Commerce & Direct-To-Consumer,US
+Cohesity,https://cohesity.com,Data Management & Analytics,US
+VAST Data,https://vastdata.com,Data Management & Analytics,US
+GOAT,https://goat.com,E-Commerce & Direct-To-Consumer,US
+Noom,https://noom.com,Health,US
+Redwood Materials,https://redwoodmaterials.com,Other,US
+Papaya Global,https://papayaglobal.com,SaaS,US
+ShareChat,https://sharechat.com,SaaS,India
+Relativity,https://relativity.com,SaaS,US
+Whoop,https://whoop.com,E-Commerce & Direct-To-Consumer,US
+Applied Intuition,https://appliedintuition.com,Data Management & Analytics,US
+Course Hero,https://coursehero.com,Edtech,US
+Otto Bock HealthCare,https://ottobockhealthcare.com,Health,Germany
+Indigo Ag,https://indigoag.com,AI,US
+HyalRoute,https://hyalroute.com,Kuang-Chi,Singapore
+Rec Room,https://recroom.com,SaaS,US
+Digit Insurance,https://digitinsurance.com,Fintech,India
+Commure,https://commure.com,SaaS,US
+Mirakl,https://mirakl.com,E-Commerce & Direct-To-Consumer,France
+Coalition,https://coalition.com,Cybersecurity,US
+Tekion,https://tekion.com,SaaS,US
+Celsius Network,https://celsiusnetwork.com,Fintech,US
+GoStudent,https://gostudent.com,Edtech,Austria
+Highspot,https://highspot.com,SaaS,US
+Handshake,https://handshake.com,SaaS,US
+ChargeBee Technologies,https://chargebeetechnologies.com,Fintech,US
+Flock Safety,https://flocksafety.com,Hardware,US
+Unacademy,https://unacademy.com,Edtech,India
+MoonPay,https://moonpay.com,Fintech,US
+Upstox,https://upstox.com,Fintech,India
+Youxia Motors,https://youxiamotors.com,Auto & Transportation,China
+OwnBackup,https://ownbackup.com,Data Management & Analytics,US
+Starburst,https://starburst.com,Data Management & Analytics,US
+Cloudwalk,https://cloudwalk.com,AI,China
+ECARX,https://ecarx.com,Auto & Transportation,China
+Sila Nanotechnologies,https://silananotechnologies.com,Other,US
+Scopely,https://scopely.com,Mobile & Telecommunications,US
+Komodo Health,https://komodohealth.com,Health,US
+Kurly,https://kurly.com,"Supply Chain, Logistics, & Delivery",South Korea
+Cars24,https://cars24.com,E-Commerce & Direct-To-Consumer,India
+BlockDaemon,https://blockdaemon.com,Fintech,US
+Dadi Cinema,https://dadicinema.com,Other,China
+Thumbtack,https://thumbtack.com,E-Commerce & Direct-To-Consumer,US
+Cedar,https://cedar.com,Fintech,US
+Eruditus Executive Education,https://eruditusexecutiveeducation.com,Edtech,India
+Blockstream,https://blockstream.com,Fintech,Canada
+ConsenSys,https://consensys.com,Fintech,US
+Innovaccer,https://innovaccer.com,Health,US
+Ironclad,https://ironclad.com,SaaS,US
+Skims,https://skims.com,E-Commerce & Direct-To-Consumer,US
+PsiQuantum,https://psiquantum.com,Hardware,US
+SpotOn,https://spoton.com,Fintech,US
+Udaan,https://udaan.com,"Supply Chain, Logistics, & Delivery",India
+HighRadius,https://highradius.com,Fintech,US
+Nuvemshop,https://nuvemshop.com,E-Commerce & Direct-To-Consumer,Brazil
+DailyHunt,https://dailyhunt.com,SaaS,India
+Yixia,https://yixia.com,Mobile & Telecommunications,China
+Traveloka,https://traveloka.com,Travel,Indonesia
+SouChe Holdings,https://soucheholdings.com,E-Commerce & Direct-To-Consumer,China
+BGL Group,https://bglgroup.com,Fintech,UK
+Circle,https://circle.com,Fintech,US
+Zuoyebang,https://zuoyebang.com,Edtech,China
+Delhivery,https://delhivery.com,"Supply Chain, Logistics, & Delivery",India
+FlixMobility,https://flixmobility.com,Auto & Transportation,Germany
+Wildlife Studios,https://wildlifestudios.com,Other,Brazil
+ApplyBoard,https://applyboard.com,Edtech,Canada
+Forter,https://forter.com,Cybersecurity,US
+Calendly,https://calendly.com,SaaS,US
+BlockFi,https://blockfi.com,Fintech,US
+ActiveCampaign,https://activecampaign.com,SaaS,US
+CMR Surgical,https://cmrsurgical.com,Health,UK
+Lucid Software,https://lucidsoftware.com,SaaS,US
+Age of Learning,https://ageoflearning.com,Edtech,US
+Carbon Health,https://carbonhealth.com,Health,US
+Contentful,https://contentful.com,SaaS,Germany
+LaunchDarkly,https://launchdarkly.com,SaaS,US
+Seismic,https://seismic.com,SaaS,US
+Grafana Labs,https://grafanalabs.com,SaaS,US
+Gorillas,https://gorillas.com,E-Commerce & Direct-To-Consumer,Germany
+Sky Mavis,https://skymavis.com,SaaS,Vietnam
+Outschool,https://outschool.com,Edtech,US
+TradingView,https://tradingview.com,Fintech,US
+Groww,https://groww.com,Fintech,India
+Podium,https://podium.com,SaaS,US
+Via,https://via.com,Auto & Transportation,US
+Anchorage Digital,https://anchoragedigital.com,Fintech,US
+Inxeption,https://inxeption.com,Fintech,US
+Lattice,https://lattice.com,SaaS,US
+Flutterwave,https://flutterwave.com,Fintech,US
+Amber Group,https://ambergroup.com,"Tiger Global Management, Tiger Brokers, Dcm Ventures",Hong Kong
+Kraken,https://kraken.com,Fintech,US
+OpenAI,https://openai.com,AI,US
+Ovo,https://ovo.com,Fintech,Indonesia
+Workrise,https://workrise.com,SaaS,US
+Loft,https://loft.com,E-Commerce & Direct-To-Consumer,Brazil
+BharatPe,https://bharatpe.com,Fintech,India
+DriveWealth,https://drivewealth.com,Fintech,US
+Flink,https://flink.com,E-Commerce & Direct-To-Consumer,Germany
+Meicai,https://meicai.com,Mobile & Telecommunications,China
+ContentSquare,https://contentsquare.com,SaaS,France
+Zipline,https://zipline.com,"Supply Chain, Logistics, & Delivery",US
+Graphcore,https://graphcore.com,AI,UK
+Illumio,https://illumio.com,Cybersecurity,US
+Convoy,https://convoy.com,"Supply Chain, Logistics, & Delivery",US
+MasterClass,https://masterclass.com,Edtech,US
+Dream Games,https://dreamgames.com,Mobile & Telecommunications,Turkey
+Transmit Security,https://transmitsecurity.com,Cybersecurity,Israel
+Hozon Auto,https://hozonauto.com,Auto & Transportation,China
+Tradeshift,https://tradeshift.com,Fintech,US
+Nextiva,https://nextiva.com,SaaS,US
+o9 Solutions,https://o9solutions.com,AI,US
+ManoMano,https://manomano.com,E-Commerce & Direct-To-Consumer,France
+Sourcegraph,https://sourcegraph.com,SaaS,US
+Pendo,https://pendo.com,SaaS,US
+Plume,https://plume.com,SaaS,US
+Moglix,https://moglix.com,"Jungle Ventures, Accel, Venture Highway",Singapore
+Xinchao Media,https://xinchaomedia.com,SaaS,China
+JumpCloud,https://jumpcloud.com,Data Management & Analytics,US
+Vista Global,https://vistaglobal.com,Other,United Arab Emirates
+BYTON,https://byton.com,Auto & Transportation,China
+Acronis,https://acronis.com,Cybersecurity,Switzerland
+Side,https://side.com,SaaS,US
+Lenskart,https://lenskart.com,E-Commerce & Direct-To-Consumer,India
+Infra.Market,https://inframarket.com,E-Commerce & Direct-To-Consumer,India
+Varo Bank,https://varobank.com,Fintech,US
+Cato Networks,https://catonetworks.com,Cybersecurity,Israel
+Aura,https://aura.com,Cybersecurity,US
+Vercel,https://vercel.com,SaaS,US
+Sysdig,https://sysdig.com,Cybersecurity,US
+Zetwerk,https://zetwerk.com,SaaS,India
+Uniphore,https://uniphore.com,AI,US
+Somatus,https://somatus.com,Health,US
+Uala,https://uala.com,Fintech,Argentina
+Mobile Premier League,https://mobilepremierleague.com,SaaS,India
+Cybereason,https://cybereason.com,Cybersecurity,US
+Cgtz,https://cgtz.com,Fintech,China
+Star Charge,https://starcharge.com,Auto & Transportation,China
+Carbon,https://carbon.com,Hardware,US
+PolicyBazaar,https://policybazaar.com,Fintech,India
+Paxos,https://paxos.com,Fintech,US
+Exabeam,https://exabeam.com,Cybersecurity,US
+BitSight Technologies,https://bitsighttechnologies.com,Cybersecurity,US
+Trumid,https://trumid.com,Fintech,US
+ABL Space Systems,https://ablspacesystems.com,Other,US
+Project44,https://project44.com,"Supply Chain, Logistics, & Delivery",US
+Bought By Many,https://boughtbymany.com,Fintech,UK
+Jobandtalent,https://jobandtalent.com,SaaS,Spain
+WEMAKEPRICE,https://wemakeprice.com,E-Commerce & Direct-To-Consumer,South Korea
+Biren Technology,https://birentechnology.com,Hardware,China
+Voodoo,https://voodoo.com,Other,France
+Uptake,https://uptake.com,AI,US
+KeepTruckin,https://keeptruckin.com,"Supply Chain, Logistics, & Delivery",US
+Skydance Media,https://skydancemedia.com,Other,US
+Greenlight,https://greenlight.com,Fintech,US
+Bowery Farming,https://boweryfarming.com,Other,US
+Odoo,https://odoo.com,SaaS,Belgium
+MoMo,https://momo.com,Fintech,Vietnam
+Ankorstore,https://ankorstore.com,E-Commerce & Direct-To-Consumer,France
+Zume,https://zume.com,Consumer & Retail,US
+Algolia,https://algolia.com,SaaS,US
+Pattern,https://pattern.com,SaaS,US
+NuCom Group,https://nucomgroup.com,Other,Germany
+MUSINSA,https://musinsa.com,E-Commerce & Direct-To-Consumer,South Korea
+Current,https://current.com,Fintech,US
+Bitso,https://bitso.com,Fintech,Mexico
+Gympass,https://gympass.com,SaaS,US
+Reify Health,https://reifyhealth.com,Health,US
+Dialpad,https://dialpad.com,SaaS,US
+G7 Networks,https://g7networks.com,"Supply Chain, Logistics, & Delivery",China
+BloomReach,https://bloomreach.com,AI,US
+Huaqin Telecom Technology,https://huaqintelecomtechnology.com,Mobile & Telecommunications,China
+Accelerant,https://accelerant.com,Other,UK
+Hesai Tech,https://hesaitech.com,AI,China
+YITU Technology,https://yitutechnology.com,AI,China
+Addepar,https://addepar.com,Fintech,US
+Neo4j,https://neo4j.com,Data Management & Analytics,US
+CloudWalk,https://cloudwalk.com,Fintech,Brazil
+FirstCry,https://firstcry.com,E-Commerce & Direct-To-Consumer,India
+Eightfold.ai,https://eightfoldai.com,SaaS,US
+Webflow,https://webflow.com,SaaS,US
+Urban Company,https://urbancompany.com,E-Commerce & Direct-To-Consumer,India
+ReCharge,https://recharge.com,Fintech,US
+Moveworks,https://moveworks.com,AI,US
+Medable,https://medable.com,SaaS,US
+SoundHound,https://soundhound.com,AI,US
+GoCardless,https://gocardless.com,Fintech,UK
+Trendy Group International,https://trendygroupinternational.com,Consumer & Retail,Hong Kong
+Avant,https://avant.com,AI,US
+Tubatu.com,https://tubatucom.com,E-Commerce & Direct-To-Consumer,China
+BlaBlaCar,https://blablacar.com,Auto & Transportation,France
+HuiMin,https://huimin.com,E-Commerce & Direct-To-Consumer,China
+Quora,https://quora.com,SaaS,US
+Improbable,https://improbable.com,Other,UK
+Preferred Networks,https://preferrednetworks.com,AI,Japan
+Formlabs,https://formlabs.com,Hardware,US
+4Paradigm,https://4paradigm.com,AI,China
+Calm,https://calm.com,Consumer & Retail,US
+Kaseya,https://kaseya.com,Cybersecurity,US
+Mafengwo,https://mafengwo.com,Travel,China
+Druva,https://druva.com,Data Management & Analytics,US
+Kujiale,https://kujiale.com,SaaS,China
+AppsFlyer,https://appsflyer.com,Mobile & Telecommunications,US
+Keep,https://keep.com,Mobile & Telecommunications,China
+Redis Labs,https://redislabs.com,Data Management & Analytics,US
+Xingyun Group,https://xingyungroup.com,E-Commerce & Direct-To-Consumer,China
+Unqork,https://unqork.com,Fintech,US
+Virta Health,https://virtahealth.com,Health,US
+ISN,https://isn.com,"Supply Chain, Logistics, & Delivery",US
+Earnix,https://earnix.com,Fintech,Israel
+Guoquan Shihui,https://guoquanshihui.com,Consumer & Retail,China
+Arrail Dental,https://arraildental.com,Health,China
+Clearco,https://clearco.com,Fintech,Canada
+Hive,https://hive.com,AI,US
+KRY,https://kry.com,Health,Sweden
+Kajabi,https://kajabi.com,SaaS,US
+Ethos,https://ethos.com,Fintech,US
+PayFit,https://payfit.com,Fintech,UK
+Beisen,https://beisen.com,SaaS,China
+Pipe,https://pipe.com,Fintech,US
+Iterable,https://iterable.com,SaaS,US
+Bunq,https://bunq.com,Fintech,Netherlands
+Clip,https://clip.com,Fintech,Mexico
+Loggi,https://loggi.com,"Supply Chain, Logistics, & Delivery",Brazil
+MURAL,https://mural.com,SaaS,US
+Pagaya,https://pagaya.com,Fintech,Israel
+OCSiAl,https://ocsial.com,Other,Luxembourg
+XtalPi,https://xtalpi.com,AI,China
+Divvy Homes,https://divvyhomes.com,Fintech,US
+Apeel Sciences,https://apeelsciences.com,Other,US
+Opay,https://opay.com,Fintech,Nigeria
+Aviatrix,https://aviatrix.com,SaaS,US
+SmartNews,https://smartnews.com,Mobile & Telecommunications,Japan
+Misfits Market,https://misfitsmarket.com,E-Commerce & Direct-To-Consumer,US
+Spring Health,https://springhealth.com,Health,US
+Black Sesame Technologies,https://blacksesametechnologies.com,AI,China
+Advance Intelligence Group,https://advanceintelligencegroup.com,"Vision Plus Capital, Gsr Ventures, Zhenfund",Singapore
+Modern Treasury,https://moderntreasury.com,Fintech,US
+Magic Leap,https://magicleap.com,Hardware,US
+Tier,https://tier.com,Travel,Germany
+Aiven,https://aiven.com,SaaS,Finland
+ClickHouse,https://clickhouse.com,Data Management & Analytics,US
+Mynt,https://mynt.com,Fintech,Philippines
+Everlaw,https://everlaw.com,SaaS,US
+Zilch,https://zilch.com,Fintech,UK
+VerbIT,https://verbit.com,AI,US
+StarkWare,https://starkware.com,Cybersecurity,Israel
+Netlify,https://netlify.com,SaaS,US
+Deliverr,https://deliverr.com,"Supply Chain, Logistics, & Delivery",US
+SWORD Health,https://swordhealth.com,Health,US
+LTK,https://ltk.com,SaaS,US
+Exotec,https://exotec.com,Hardware,France
+Dremio,https://dremio.com,Data Management & Analytics,US
+Akulaku,https://akulaku.com,E-Commerce & Direct-To-Consumer,Indonesia
+Cloudinary,https://cloudinary.com,SaaS,US
+Fenbi Education,https://fenbieducation.com,Edtech,China
+Starling Bank,https://starlingbank.com,Fintech,UK
+Rokt,https://rokt.com,SaaS,US
+InVision,https://invision.com,SaaS,US
+eDaili,https://edaili.com,E-Commerce & Direct-To-Consumer,China
+MX Technologies,https://mxtechnologies.com,Fintech,US
+Aledade,https://aledade.com,Health,US
+CoinSwitch Kuber,https://coinswitchkuber.com,Fintech,India
+ENOVATE,https://enovate.com,Auto & Transportation,China
+CFGI,https://cfgi.com,Fintech,US
+Retool,https://retool.com,SaaS,US
+Automattic,https://automattic.com,SaaS,US
+ZocDoc,https://zocdoc.com,Health,US
+Diamond Foundry,https://diamondfoundry.com,Other,US
+FullStory,https://fullstory.com,SaaS,US
+Lightricks,https://lightricks.com,AI,Israel
+Opentrons,https://opentrons.com,Hardware,US
+AIWAYS,https://aiways.com,Auto & Transportation,China
+Trulioo,https://trulioo.com,Cybersecurity,Canada
+Spinny,https://spinny.com,E-Commerce & Direct-To-Consumer,India
+Orca Security,https://orcasecurity.com,Cybersecurity,US
+Apus Group,https://apusgroup.com,Mobile & Telecommunications,China
+Harry's,https://harrys.com,Consumer & Retail,US
+PAX,https://pax.com,Consumer & Retail,US
+Harness,https://harness.com,AI,US
+DispatchHealth,https://dispatchhealth.com,Health,US
+Unite Us,https://uniteus.com,Health,US
+CircleCI,https://circleci.com,SaaS,US
+Wave,https://wave.com,Fintech,Senegal
+Vestiaire Collective,https://vestiairecollective.com,E-Commerce & Direct-To-Consumer,France
+Dragos,https://dragos.com,Cybersecurity,US
+Reltio,https://reltio.com,Data Management & Analytics,US
+H2O.ai,https://h2oai.com,AI,US
+ZenBusiness,https://zenbusiness.com,Fintech,US
+Carsome,https://carsome.com,E-Commerce & Direct-To-Consumer,Malaysia
+Productboard,https://productboard.com,SaaS,US
+Spotter,https://spotter.com,Fintech,US
+Alan,https://alan.com,Fintech,France
+wefox,https://wefox.com,Fintech,Germany
+Hibob,https://hibob.com,SaaS,Israel
+Trader Interactive,https://traderinteractive.com,Other,US
+Jusfoun Big Data,https://jusfounbigdata.com,Data Management & Analytics,China
+Transcarent,https://transcarent.com,Health,US
+DealShare,https://dealshare.com,E-Commerce & Direct-To-Consumer,India
+Zhubajie,https://zhubajie.com,SaaS,China
+solarisBank,https://solarisbank.com,Fintech,Germany
+Infinidat,https://infinidat.com,Hardware,US
+Afiniti,https://afiniti.com,AI,Bermuda
+Cao Cao Mobility,https://caocaomobility.com,Auto & Transportation,China
+Verkada,https://verkada.com,Cybersecurity,US
+Clari,https://clari.com,SaaS,US
+Tonal,https://tonal.com,E-Commerce & Direct-To-Consumer,US
+Clio,https://clio.com,SaaS,Canada
+SafetyCulture,https://safetyculture.com,SaaS,Australia
+Extend,https://extend.com,Fintech,US
+Cognite,https://cognite.com,Data Management & Analytics,Norway
+ASAPP,https://asapp.com,AI,US
+SmartHR,https://smarthr.com,Fintech,Japan
+Mercury,https://mercury.com,Fintech,US
+HomeLight,https://homelight.com,Fintech,US
+Truepill,https://truepill.com,Health,US
+ezCater,https://ezcater.com,"Supply Chain, Logistics, & Delivery",US
+Wayflyer,https://wayflyer.com,Fintech,Ireland
+Promasidor Holdings,https://promasidorholdings.com,Consumer & Retail,South Africa
+Baiwang,https://baiwang.com,Fintech,China
+Iluvatar CoreX,https://iluvatarcorex.com,Hardware,China
+Wenheyou,https://wenheyou.com,Other,China
+Loom,https://loom.com,SaaS,US
+Ximalaya FM,https://ximalayafm.com,Mobile & Telecommunications,China
+Carzone,https://carzone.com,E-Commerce & Direct-To-Consumer,China
+Mu Sigma,https://musigma.com,Data Management & Analytics,US
+TuJia,https://tujia.com,Travel,China
+Mofang Living,https://mofangliving.com,E-Commerce & Direct-To-Consumer,China
+Gett,https://gett.com,Auto & Transportation,UK
+DT Dream,https://dtdream.com,Data Management & Analytics,China
+Changingedu,https://changingedu.com,Edtech,China
+XiaoZhu,https://xiaozhu.com,Travel,China
+JOLLY Information Technology,https://jollyinformationtechnology.com,E-Commerce & Direct-To-Consumer,China
+Yijiupi,https://yijiupi.com,Consumer & Retail,China
+Cambridge Mobile Telematics,https://cambridgemobiletelematics.com,Mobile & Telecommunications,US
+Collective Health,https://collectivehealth.com,Fintech,US
+Strava,https://strava.com,SaaS,US
+Zenoti,https://zenoti.com,SaaS,US
+K Health,https://khealth.com,Health,US
+Uplight,https://uplight.com,Other,US
+ID.me,https://idme.com,Cybersecurity,US
+Snapdocs,https://snapdocs.com,Fintech,US
+Chipper Cash,https://chippercash.com,Fintech,US
+Ledger,https://ledger.com,Hardware,France
+Next Silicon,https://nextsilicon.com,Hardware,Israel
+YunQuNa,https://yunquna.com,"Supply Chain, Logistics, & Delivery",China
+Impact,https://impact.com,SaaS,US
+SmartRecruiters,https://smartrecruiters.com,SaaS,US
+NotCo,https://notco.com,AI,Chile
+Culture Amp,https://cultureamp.com,SaaS,Australia
+TaxBit,https://taxbit.com,Fintech,US
+Pacaso,https://pacaso.com,Fintech,US
+1047 Games,https://1047games.com,SaaS,US
+Matillion,https://matillion.com,Data Management & Analytics,UK
+Persona,https://persona.com,Cybersecurity,US
+Whatnot,https://whatnot.com,E-Commerce & Direct-To-Consumer,US
+Ascend Money,https://ascendmoney.com,Fintech,Thailand
+Andela,https://andela.com,SaaS,US
+Built,https://built.com,SaaS,US
+candy.com,https://candycom.com,Fintech,US
+Devo,https://devo.com,Data Management & Analytics,US
+CoinList,https://coinlist.com,Fintech,US
+Lusha,https://lusha.com,SaaS,US
+CureFit,https://curefit.com,Health,India
+Solugen,https://solugen.com,Other,US
+Olist,https://olist.com,E-Commerce & Direct-To-Consumer,Brazil
+Paradox,https://paradox.com,SaaS,US
+Airbyte,https://airbyte.com,SaaS,US
+StoreDot,https://storedot.com,Other,Israel
+Il Makiage,https://ilmakiage.com,E-Commerce & Direct-To-Consumer,US
+Spendesk,https://spendesk.com,Fintech,France
+Veriff,https://veriff.com,AI,Estonia
+Athelas,https://athelas.com,Health,US
+ElasticRun,https://elasticrun.com,"Supply Chain, Logistics, & Delivery",India
+Veho,https://veho.com,"Supply Chain, Logistics, & Delivery",US
+Temporal,https://temporal.com,SaaS,US
+Fabric,https://fabric.com,E-Commerce & Direct-To-Consumer,US
+Yipin Shengxian,https://yipinshengxian.com,E-Commerce & Direct-To-Consumer,China
+Bordrin Motors,https://bordrinmotors.com,Auto & Transportation,China
+Coocaa,https://coocaa.com,Hardware,China
+Juma Peisong,https://jumapeisong.com,"Supply Chain, Logistics, & Delivery",China
+Ouyeel,https://ouyeel.com,SaaS,China
+Gymshark,https://gymshark.com,E-Commerce & Direct-To-Consumer,UK
+Zeta,https://zeta.com,Fintech,US
+M1 Finance,https://m1finance.com,Fintech,US
+Aleo,https://aleo.com,Cybersecurity,US
+Einride,https://einride.com,Auto & Transportation,Sweden
+Justworks,https://justworks.com,SaaS,US
+SonderMind,https://sondermind.com,Health,US
+Papa,https://papa.com,Health,US
+Figment,https://figment.com,SaaS,Canada
+Envoy,https://envoy.com,SaaS,US
+Deliverect,https://deliverect.com,Fintech,Belgium
+SparkCognition,https://sparkcognition.com,AI,US
+Firebolt,https://firebolt.com,Data Management & Analytics,Israel
+Koudai,https://koudai.com,E-Commerce & Direct-To-Consumer,China
+Symphony,https://symphony.com,Fintech,US
+Yidian Zixun,https://yidianzixun.com,Mobile & Telecommunications,China
+Cabify,https://cabify.com,Auto & Transportation,Spain

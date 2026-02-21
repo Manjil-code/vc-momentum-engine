@@ -1,22 +1,26 @@
 import pandas as pd
-from typing import List, Dict
 
+DEFAULT_ENTITY_FILE = "data_sources/cleaned_global_startups.csv"
 
 class EntityLoader:
-    def __init__(self, path: str = "entities.csv"):
-        self.path = path
 
-    def load(self, limit: int = 100) -> List[Dict]:
-        df = pd.read_csv(self.path)
-        df = df.dropna(subset=["name", "website"])
-        df = df.head(limit)
+    def __init__(self, filepath=DEFAULT_ENTITY_FILE):
+        self.filepath = filepath
+
+    def load(self, limit=None):
+        df = pd.read_csv(self.filepath)
+
+        if limit:
+            df = df.head(limit)
 
         entities = []
 
         for _, row in df.iterrows():
             entities.append({
-                "name": row["name"].strip(),
-                "website": row["website"].strip().rstrip("/")
+                "entity_name": row["name"],
+                "entity_url": row["website"],
+                "sector": row["sector"],
+                "region": row["region"]
             })
 
         return entities

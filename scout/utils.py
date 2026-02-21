@@ -1,24 +1,22 @@
 import hashlib
-from typing import List, Dict
 
-def generate_signal_urls(entity: Dict) -> List[Dict]:
-    base = entity["website"].rstrip("/")
+
+def generate_signal_urls(entity):
+    base = entity["entity_url"].rstrip("/")
 
     potential_paths = [
-        ("hiring", "/careers"),
-        ("product_update", "/blog"),
-        ("funding", "/news"),
+        ("news", "/news"),
+        ("blog", "/blog"),
+        ("careers", "/careers"),
         ("funding", "/press"),
-        ("rss", "/feed"),
-        ("rss", "/rss")
     ]
 
     urls = []
 
     for category, path in potential_paths:
         urls.append({
-            "entity_name": entity["name"],
-            "entity_url": base,
+            "entity_name": entity["entity_name"],
+            "entity_url": entity["entity_url"],
             "category": category,
             "url": base + path
         })
