@@ -38,24 +38,12 @@ https://vc-momentum-api.onrender.com/docs
 
 Python 3.9+ recommended.
 
-Clone the repository:
+	•	Clone the repository from https://github.com/Manjil-code/vc-momentum-engine
+	•	Navigate to the cloned directory: cd vc-momentum-engine
+	•	Install dependencies using pip install -r requirements.txt
+	•	Run the ingestion script: python ingest.py
+	•	Start the backend server using uvicorn api.main:app —reload
+	•	Launch the dashboard using streamlit run dashboard.py
 
-git clone https://github.com/Manjil-code/vc-momentum-engine
-cd vc-momentum-engine
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run ingestion:
-
-python ingest.py
-
-Start backend:
-
-uvicorn api.main:app --reload
-
-Launch dashboard:
-
-streamlit run dashboard.py
 
