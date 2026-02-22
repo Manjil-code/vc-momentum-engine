@@ -1,5 +1,6 @@
 <img width="2906" height="1630" alt="image" src="https://github.com/user-attachments/assets/c15b17c0-812e-4180-905d-2210b1b6197f" />
 
+
 VC Momentum Intelligence Platform 🚀
 
 AI-powered startup signal ranking engine that collects, scores, and ranks companies based on momentum signals from public sources.
@@ -46,6 +47,7 @@ Python 3.9+ recommended.
 	•	Run the ingestion script: python ingest.py
 	•	Start the backend server using uvicorn api.main:app —reload
 	•	Launch the dashboard using streamlit run dashboard.py
+
 
 
 
