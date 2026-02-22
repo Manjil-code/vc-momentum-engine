@@ -17,15 +17,15 @@ AI-powered startup signal ranking engine that collects, scores, and ranks compan
 Architecture
 
 Data Sources
-     ↓
+     →
 Signal Parser
-     ↓
+     →
 SQLite Storage
-     ↓
+     →
 Momentum Ranking Engine
-     ↓
+     →
 FastAPI Backend
-     ↓
+     →
 Streamlit Dashboard
 
 🌐 Live Demo
@@ -46,6 +46,7 @@ Python 3.9+ recommended.
 	•	Run the ingestion script: python ingest.py
 	•	Start the backend server using uvicorn api.main:app —reload
 	•	Launch the dashboard using streamlit run dashboard.py
+
 
 
 
